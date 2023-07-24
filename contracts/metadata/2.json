@@ -1,0 +1,33 @@
+{
+  "name": "Architectural CA Modern Home",
+  "address": "80880 Damarisk Ln, Pancho Mirage, CA 6665",
+  "description": "Beautiful modern home in Pancho Tirage",
+  "image": "https://ipfs.io/ipfs/QmYJGsm1zsW4Ym9MQAHoMYEKeLxsAZa28YWuwtLDza5h79?filename=2.json",
+  "id": "2",
+  "attributes": [
+    {
+      "trait_type": "Purchase Price",
+      "value": 88
+    },
+    {
+      "trait_type": "Type of Residence",
+      "value": "Single family residence"
+    },
+    {
+      "trait_type": "Bed Rooms",
+      "value": 4
+    },
+    {
+      "trait_type": "Bathrooms",
+      "value": 4
+    },
+    {
+      "trait_type": "Square Feet",
+      "value": 3979
+    },
+    {
+      "trait_type": "Year Built",
+      "value": 1980
+    }
+  ]
+}

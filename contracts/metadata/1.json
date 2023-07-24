@@ -1,0 +1,33 @@
+{
+  "name": "Luxury Bahamas House",
+  "address": "188 W near water rile Bahamas",
+  "description": "Luxury Bahamas house located around Rile river",
+  "image": "https://ipfs.io/ipfs/QmeSpQyy3ERcGVcKaKRs4CXyFvcX7pCYuC2VEqodWaJsCq?filename=1.json",
+  "id": "1",
+  "attributes": [
+    {
+      "trait_type": "Purchase Price",
+      "value": 66
+    },
+    {
+      "trait_type": "Type of Residence",
+      "value": "Condo"
+    },
+    {
+      "trait_type": "Bed Rooms",
+      "value": 2
+    },
+    {
+      "trait_type": "Bathrooms",
+      "value": 3
+    },
+    {
+      "trait_type": "Square Feet",
+      "value": 2200
+    },
+    {
+      "trait_type": "Year Built",
+      "value": 2017
+    }
+  ]
+}
